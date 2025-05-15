@@ -10,10 +10,6 @@
 - 🎓 **Education**: BS in Artificial Intelligence (2021-2025) + Minor in International Law
 - 📍 **Location**: Jilin, China → Macau (incoming)
 - 🔬 **Research Areas**: GUI Agents, Computer Vision, Deep Learning, Agricultural AI
-- 🏢 **Recent Experience**: 
-  - Deep Learning Engineer @ Institute of Computing Technology, CAS (Food Computing Lab)
-  - CV Engineer @ iFLYTEK (Smart Cleaning Robot Team)
-  - Software Engineer @ Zhejiang University Huzhou Institute
 
 ## 🏆 Achievements
 
@@ -38,7 +34,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ### Frameworks & Tools
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -65,7 +60,6 @@
 
 ## 📫 Let's Connect!
 
-- 📧 Email: 3590824216@qq.com
 - 💼 Tech Email: xuzejun@nianfeng.tech
 - 🌐 Team: 岁稔年丰 (Nian Feng Technology) - *"May Chinese agriculture prosper year after year!"*
 
