@@ -56,9 +56,6 @@
 - Integrated pest detection model using deep learning
 - [Demo Available](http://39.105.41.96/login)
 
-### Illegal Fundraising Case Management System
-- Developed comprehensive case tracking and management solution
-- Implemented data analysis for fraud detection
 
 ## 🌱 Professional Affiliation
 **Team**: 岁稔年丰 (Nian Feng Technology)  
