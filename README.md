@@ -40,10 +40,6 @@
 - Lightweight crop disease identification models
 - RAG construction for agricultural domain using LLMs
 
-### Computer Vision
-- 3D point cloud processing
-- Human pose recognition
-- Finger pointing detection
 
 ## 📚 Publications & Intellectual Property
 - **Research Papers**: 4+ published (EI conference, provincial journals, SCI under review)
