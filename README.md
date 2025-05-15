@@ -25,7 +25,6 @@
 
 ### 💻 Projects
 - **Agricultural Blog Platform** with pest detection model ([Demo](http://39.105.41.96/login))
-- **Echo Vision** - Guide dog collar for the visually impaired
 - **Illegal Fundraising Case Management System**
 
 ## 🛠️ Tech Stack
