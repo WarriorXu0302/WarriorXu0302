@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xu Zejun (徐泽军)
+# 👋 Hi, I'm Warrior Xu (徐泽军)
 
 > 💫 Incoming Master's student in Intelligent Technology at Macau University of Science and Technology  
 > 🔬 Currently researching GUI Agents  
