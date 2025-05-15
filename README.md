@@ -53,9 +53,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Xu Zejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 🔬 Recent Research
 
@@ -64,21 +61,14 @@
 - **Computer Vision**: 3D point cloud processing, human pose recognition, finger pointing detection
 - **Large Language Models**: Prompt engineering and RAG construction for agricultural domain
 
-## 🎯 Future Goals
 
-- 🎓 Pursuing Master's in Intelligent Technology at MUST
-- 🔬 Advancing GUI Agent research with multimodal capabilities
-- 🌱 Contributing to smart agriculture through AI innovation
-- 🤝 Collaborating on open-source AI projects
 
 ## 📫 Let's Connect!
 
 - 📧 Email: 3590824216@qq.com
 - 💼 Tech Email: xuzejun@nianfeng.tech
-- 🌐 Team: 岁稔年丰 (Sui Ren Nian Feng) - *"May Chinese agriculture prosper year after year!"*
+- 🌐 Team: 岁稔年丰 (Nian Feng Technology) - *"May Chinese agriculture prosper year after year!"*
 
 ---
 
 ⭐️ *"Innovation grows from the intersection of technology and purpose"*
-
-> 会通中外 砺志敦材 - Bridging East and West, Sharpening Aspirations and Building Character
