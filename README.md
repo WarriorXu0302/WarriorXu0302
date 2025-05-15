@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="mailto:warriorxu@magicap.net"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Jilin,%20China-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-GUI%20Agents-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Macau,%20China-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20Agents-green?style=for-the-badge" />
 </div>
 
 ## 🎓 Education
