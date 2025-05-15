@@ -9,7 +9,7 @@
 ## 🎓 Education
 - **Macau University of Science and Technology** *(2025-2027)*
   - Master's in Intelligent Technology
-  - Research Focus: GUI Agents
+  - Research Focus: LLM Agents
 
 - **Jilin International Studies University** *(2021-2025)*
   - B.S. in Artificial Intelligence
