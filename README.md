@@ -1,7 +1,7 @@
 # Warrior Xu (徐泽军)
 
 <div align="center">
-  <a href="mailto:xuzejun@nianfeng.tech"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:warriorxu@magicap.net"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Jilin,%20China-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-GUI%20Agents-green?style=for-the-badge" />
 </div>
@@ -43,7 +43,6 @@
 
 ## 📚 Publications & Intellectual Property
 - **Research Papers**: 4+ published (EI conference, provincial journals, SCI under review)
-- **Patents**: 2 invention patents, 6 utility model patents
 - **Software Copyrights**: 6 registered
 
 ## 🏆 Awards & Honors
