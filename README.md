@@ -7,7 +7,7 @@
 </div>
 
 ## 🎓 Education
-- **Macau University of Science and Technology** *(Incoming)*
+- **Macau University of Science and Technology** *(2025-2027)*
   - Master's in Intelligent Technology
   - Research Focus: GUI Agents
 
