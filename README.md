@@ -48,7 +48,7 @@
 ## 🏆 Awards & Honors
 - **National First Prize** - China College Students Market Research Competition (International Track)
 - **National Third Prize** - China Computer Design Competition (VR/AR Track)
-- **Provincial First Prize** - Mathematical Modeling Competition (7+ provincial awards)
+- **Provincial First Prize** - Mathematical Modeling Competition (20+ provincial awards)
 
 ## 🚀 Projects
 ### Agricultural Blog Platform with Pest Detection
