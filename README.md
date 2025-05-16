@@ -1,8 +1,7 @@
 
 
 # Warrior Xu (徐泽军)
-  <img src="https://img.shields.io/badge/Role-CTO-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Company-OWL Technology Co., Ltd.-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-CTO-blue?style=flat-square" /><img src="https://img.shields.io/badge/Company-OWL Technology Co., Ltd.-lightgrey?style=flat-square" />
   
 ## 🎓 Education
 - **Macau University of Science and Technology** *(2025-2027)*
