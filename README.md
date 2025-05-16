@@ -15,15 +15,10 @@
 ## 🌱 Professional Affiliation
 
 - **Chief Technology Officer (CTO)**  
-  <strong>云端问京（北京）科技有限责任公司</strong>  
+  <strong>OWL Technology Co., Ltd.</strong>  
   <img src="https://img.shields.io/badge/Role-CTO-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Company-云端问京（北京）科技有限责任公司-lightgrey?style=flat-square" />
-  
-  > *致力于大模型智能体与农业知识图谱的深度融合应用*  
-  > *Fostering the future of intelligent agents with industry-grounded innovation.*
 
-- **Team**: 岁稔年丰 (Nian Feng Technology)  
-  *"May Chinese agriculture prosper year after year!"*
 
 
 ## 📚 Publications & Intellectual Property
