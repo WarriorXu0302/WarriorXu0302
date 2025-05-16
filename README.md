@@ -1,3 +1,5 @@
+---
+
 # Warrior Xu (徐泽军)
 
 <div align="center">
@@ -40,7 +42,6 @@
 - Lightweight crop disease identification models
 - RAG construction for agricultural domain using LLMs
 
-
 ## 📚 Publications & Intellectual Property
 - **Research Papers**: 4+ published (EI conference, provincial journals, SCI under review)
 - **Software Copyrights**: 6 registered
@@ -56,13 +57,15 @@
 - Integrated pest detection model using deep learning
 - [Demo Available](http://39.105.41.96/login)
 
-
 ## 🌱 Professional Affiliation
-**Team**: 岁稔年丰 (Nian Feng Technology)  
-*"May Chinese agriculture prosper year after year!"*
+- **CTO**, 云端问京（北京）科技有限责任公司  
+- **Team**: 岁稔年丰 (Nian Feng Technology)  
+  *"May Chinese agriculture prosper year after year!"*
 
 ---
 
 <div align="center">
   <i>"Innovation grows from the intersection of technology and purpose"</i>
 </div>
+
+---
