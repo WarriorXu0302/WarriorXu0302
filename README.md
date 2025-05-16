@@ -17,11 +17,11 @@
 - **Software Copyrights**: 6 registered
 
 ## 🔬 Research Experience
-### GUI Agents
+###       GUI Agents
 - Developing intelligent agents for graphical user interface automation
 - Implementing computer vision techniques for GUI interaction
 
-### Agricultural AI
+###      Agricultural AI
 - Lightweight crop disease identification models
 - RAG construction for agricultural domain using LLMs
 
