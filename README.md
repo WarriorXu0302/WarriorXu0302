@@ -1,7 +1,9 @@
 
 
 # Warrior Xu (徐泽军)
-
+  <img src="https://img.shields.io/badge/Role-CTO-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Company-OWL Technology Co., Ltd.-lightgrey?style=flat-square" />
+  
 ## 🎓 Education
 - **Macau University of Science and Technology** *(2025-2027)*
   - Master's in Intelligent Technology
@@ -10,16 +12,6 @@
 - **Jilin International Studies University** *(2021-2025)*
   - B.S. in Artificial Intelligence
   - Minor in International/Cross-border Law
-
-
-## 🌱 Professional Affiliation
-
-- **Chief Technology Officer (CTO)**  
-  <strong>OWL Technology Co., Ltd.</strong>  
-  <img src="https://img.shields.io/badge/Role-CTO-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Company-云端问京（北京）科技有限责任公司-lightgrey?style=flat-square" />
-
-
 
 ## 📚 Publications & Intellectual Property
 - **Research Papers**: 4+ published (EI conference, provincial journals, SCI under review)
