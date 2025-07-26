@@ -45,7 +45,7 @@ Minor: International/Cross-border Law *(Micro-specialization, First graduating c
 **Co-founder & CTO | Haikou Nianfeng Jiadi Technology Co., Ltd.**  
 *Angel round funding secured*
 
-**Co-founder & CTO | Yunduan Wenjing (Beijing) Technology Co., Ltd.**  
+**CTO | Yunduan Wenjing (Beijing) Technology Co., Ltd.**  
 *Incubated by Tsinghua University X-Lab & Tsinghua Qidi Group*
 
 ---
