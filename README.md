@@ -2,7 +2,7 @@
 
 **Engineer, Fellou AI**
 
-**Chief Technology Officer, OWL Technology Co., Ltd.**
+**Research Assistant, TsinghuaNLP Tsinghua University**
 
 ---
 
