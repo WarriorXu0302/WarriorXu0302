@@ -20,12 +20,12 @@ Minor: International/Cross-border Law *(Micro-specialization, First graduating c
 
 ## Research & Publications
 
-**Academic Output:** 3 published papers, 4 software copyrights, multiple projects under review  
+**Academic Output:** 3 published papers, 4 software copyrights
 **Research Projects:** 8 national and provincial-level research projects (host/participant)
 
 ### Key Publication
 
-*[1]柳馨竹,周诗雨,王雨荷,**徐泽军**,张丽,魏俊杰,沈妍.基于PLS的东北地区中俄游客旅游行为意向的影响机制研究.地域研究与开发,2025,44(3):89-95.*
+[1]柳馨竹,周诗雨,王雨荷,**徐泽军**,张丽,魏俊杰,沈妍.基于PLS的东北地区中俄游客旅游行为意向的影响机制研究.地域研究与开发,2025,44(3):89-95.
 
 ### Research Areas
 
