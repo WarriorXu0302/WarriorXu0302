@@ -2,7 +2,7 @@
 
 **Engineer, Fellou AI**
 
-**Research Assistant, TsinghuaNLP Tsinghua University**
+**Research Assistant, TsinghuaNLP**
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Macau University of Science and Technology** | *2025-2027*  
 M.S. in Intelligent Technology  
-*Research Focus: Large Language Model Agents*
+*Research Focus: GUI Agents*
 
 **Jilin International Studies University** | *2021-2025*  
 B.S. in Artificial Intelligence  
