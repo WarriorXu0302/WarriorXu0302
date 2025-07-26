@@ -25,8 +25,7 @@ Minor: International/Cross-border Law *(Micro-specialization, First graduating c
 
 ### Key Publication
 
-**"Research on the Influence Mechanism of Tourism Behavioral Intention of Chinese and Russian Tourists in Northeast China Based on PLS"**  
-*Regional Research and Development* (CSSCI Core Journal, IF 3.95)
+*[1]柳馨竹,周诗雨,王雨荷,**徐泽军**,张丽,魏俊杰,沈妍.基于PLS的东北地区中俄游客旅游行为意向的影响机制研究.地域研究与开发,2025,44(3):89-95.*
 
 ### Research Areas
 
