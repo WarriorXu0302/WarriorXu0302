@@ -27,37 +27,6 @@ Minor: International/Cross-border Law *(Micro-specialization, First graduating c
 
 [1]柳馨竹,周诗雨,王雨荷,**徐泽军**,张丽,魏俊杰,沈妍.基于PLS的东北地区中俄游客旅游行为意向的影响机制研究.地域研究与开发,2025,44(3):89-95.
 
-### Research Areas
-
-**GUI Agents & Vision-Language Models**
-- Intelligent agent development for graphical user interface automation
-- Multi-modal AI systems combining computer vision and natural language processing
-- Deep reinforcement learning applications
-
-**Agricultural AI**
-- Lightweight crop disease identification models
-- RAG system construction for agricultural domain using LLMs
-
----
-
-## Entrepreneurship & Leadership
-
-**Co-founder & CTO | Haikou Nianfeng Jiadi Technology Co., Ltd.**  
-*Angel round funding secured*
-
----
-
-## Selected Projects
-
-**Agricultural Intelligence Platform**
-- Full-stack development with integrated pest detection
-- Technologies: Vue.js, Spring Boot, Deep Learning
-- [Live Demo](http://39.105.41.96/login)
-
-**GUI Agent Research Platform**
-- Advanced computer vision and automation systems
-- Integration of VLM technologies for enhanced user interaction
-
 ---
 
 *"Innovation grows from the intersection of technology and purpose"*
