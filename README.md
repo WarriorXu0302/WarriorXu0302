@@ -1,6 +1,5 @@
 # Warrior Xu (徐泽军)
 
-**Engineer, Fellou AI**  
 **Research Assistant, TsinghuaNLP**  
 **Co-founder & CTO**
 
