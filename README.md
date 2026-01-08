@@ -1,6 +1,6 @@
 # Warrior Xu (徐泽军)
 
-**Intern, MindLab**
+**Intern, MindLab**  
 **Research Assistant, TsinghuaNLP**  
 **Co-founder & CTO**
 
