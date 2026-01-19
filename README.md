@@ -25,7 +25,7 @@ Minor: International/Cross-border Law *(Micro-specialization, First graduating c
 
 ### Key Publication
 
-[1]柳馨竹,周诗雨,王雨荷,**徐泽军**,张丽,魏俊杰,沈妍.基于PLS的东北地区中俄游客旅游行为意向的影响机制研究.地域研究与开发,2025,44(3):89-95.
+[1] Xinzhu Liu, Shiyu Zhou, Yuhe Wang, Zejun Xu, Li Zhang, Junjie Wei, Yan Shen. Research on the Influence Mechanism of Tourism Behavior Intention of Chinese and Russian Tourists in Northeast China Based on PLS. Areal Research and Development, 2025, 44(3): 89-95. (CSSCI, Peking Univ. Core, IF: 4.546)
 
 ---
 
