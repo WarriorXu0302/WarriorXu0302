@@ -10,7 +10,7 @@
 
 **Macau University of Science and Technology** | *2025-2027*  
 M.S. in Intelligent Technology  
-*Research Focus: GUI Agents, Vision-Language Models (VLM), Deep Reinforcement Learning*
+*Research Focus: GUI Agents, Vision-Language Models (VLM), Reinforcement Learning*
 
 **Jilin International Studies University** | *2021-2025*  
 B.S. in Artificial Intelligence *(First graduating class)*  
