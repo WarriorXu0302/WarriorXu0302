@@ -20,8 +20,8 @@ Minor: International/Cross-border Law *(Micro-specialization, First graduating c
 
 ## Research & Publications
 
-**Academic Output:** 3 published papers, 4 software copyrights
-**Research Projects:** 8 national and provincial-level research projects (host/participant)
+**Academic Output:** 3 published papers, 4 software copyrights 
+**Research Projects:** 8 national and provincial-level research projects (host/participant) 
 
 ### Key Publication
 
